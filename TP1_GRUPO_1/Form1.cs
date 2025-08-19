@@ -16,5 +16,31 @@ namespace TP1_GRUPO_1
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormEj1 formEj1 = new FormEj1(this);
+            formEj1.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormEj2 formEj2 = new FormEj2(this);
+            formEj2.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FormEj3 formEj3 = new FormEj3(this);
+            formEj3.Show();
+            this.Hide();
+        }
     }
 }
