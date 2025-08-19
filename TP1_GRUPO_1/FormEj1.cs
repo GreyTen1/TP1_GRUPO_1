@@ -53,5 +53,10 @@ namespace TP1_GRUPO_1
 
             
         }
+
+        private void lbNombres2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
