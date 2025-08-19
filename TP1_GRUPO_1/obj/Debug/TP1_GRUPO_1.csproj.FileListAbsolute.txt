@@ -40,3 +40,17 @@ C:\Users\Manu\Downloads\TP1_GRUPO_1 v3\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.csproj.
 C:\Users\Manu\Downloads\TP1_GRUPO_1 v3\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.csproj.CoreCompileInputs.cache
 C:\Users\Manu\Downloads\TP1_GRUPO_1 v3\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.exe
 C:\Users\Manu\Downloads\TP1_GRUPO_1 v3\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.pdb
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\bin\Debug\TP1_GRUPO_1.exe.config
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\bin\Debug\TP1_GRUPO_1.exe
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\bin\Debug\TP1_GRUPO_1.pdb
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.exe.config
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.Form1.resources
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.FormEj1.resources
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.FormEj2.resources
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.FormEj3.resources
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.Properties.Resources.resources
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.exe
+C:\Users\sebas\Documents\GitHub\TP1_GRUPO_1\TP1_GRUPO_1\obj\Debug\TP1_GRUPO_1.pdb
